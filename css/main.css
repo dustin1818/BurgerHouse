@@ -290,6 +290,7 @@ main {
 .burger-container img:hover{
   transform: scale(1.1);
   transition: .3s all;
+  z-index: -100;
 }
 @media screen and (min-width: 768px) {
   .burger-container {
