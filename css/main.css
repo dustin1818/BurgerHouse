@@ -490,6 +490,16 @@ flex-direction: column;
   }
 }
 
+::-webkit-scrollbar{
+  background: rgb(175, 168, 168);
+  width: 10px;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb{
+  background: rgb(36, 35, 35);
+  border-radius: 5px;
+}
 
 
 
